@@ -203,7 +203,6 @@ class LinkedList {
 
     }
 
-    //--
     //to print the list
     printList() {
         let curr = this.head;
